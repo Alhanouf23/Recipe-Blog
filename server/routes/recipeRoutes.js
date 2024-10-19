@@ -6,6 +6,6 @@ const recipeController = require('../controllers/recipeController');
 
 
 router.get('/',recipeController.homepage);
-
-
+router.get('/categories',recipeController.exploraCategories);
+router.get('/recipe/:id',recipeController.exploraRecipe);
 module.exports = router;

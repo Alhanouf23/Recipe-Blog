@@ -11,9 +11,13 @@ In this app we used MongoDB to store recipes, Node.js and Express.js for backend
 
 # Technologies Used ✨
 Node.js: Backend server.
+
 Express.js: Handles routing.
+
 MongoDB: Stores recipe data.
+
 EJS: Renders HTML pages dynamically.
+
 Bootstrap: Ensures responsive design.
 
 # Installation and Setup 💻

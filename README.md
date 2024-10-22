@@ -10,15 +10,15 @@ In this app we used MongoDB to store recipes, Node.js and Express.js for backend
 
 
 # Technologies Used ✨
-Node.js: Backend server.
+Node.js.
 
-Express.js: Handles routing.
+Express.js.
 
-MongoDB: Stores recipe data.
+MongoDB.
 
-EJS: Renders HTML pages dynamically.
+EJS.
 
-Bootstrap: Ensures responsive design.
+Bootstrap.
 
 # Installation and Setup 💻
 Clone the repository:
@@ -31,16 +31,32 @@ Run project using npm:
 npm install
 npm start
 ```
-# Goals:
+# Goals 🎯
 Provide ineractive website for yummy recipes.
 
 Allow users to sumbit thier own recipes.
 
 Enable users to find recipes by category or search.
 
-# future work:
+# Future Work:
 
 Adding favorites page, so users can view and manage their saved recipes.
+
+# Resources
+[Node.js](https://nodejs.org/en): JavaScript runtime used for backend development. 
+
+[Bootstrap](https://getbootstrap.com/): Used for responsive front-end styling and user interface design.
+
+[MongoDB](https://www.mongodb.com/): Used to store recipe data. 
+
+
+
+[Lucid.app](https://lucid.app/documents#/home?folder_id=recent): Used to create the flow chart.
+
+Visual Studio Code: Code editor used for development.
+
+
+
 
 
 

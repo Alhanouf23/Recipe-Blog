@@ -5,6 +5,10 @@ The Recipe Blog is a web application that allows users to explore recipes, filte
 Also,users can view details about each recipe, such as ingredients and preparation steps.
 In this app we used MongoDB to store recipes, Node.js and Express.js for backend logic, and EJS for templating.
 
+# Flow Chart
+<img width="770" alt="Screen Shot 2024-10-22 at 1 12 19 PM" src="https://github.com/user-attachments/assets/6f074d70-bfcd-48f8-93b6-0a5df1515c53">
+
+
 # Technologies Used ✨
 Node.js: Backend server.
 Express.js: Handles routing.

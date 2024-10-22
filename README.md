@@ -18,7 +18,7 @@ Clone the repository:
 ```bash
  git clone https://github.com/yourusername/RecipeBlog.git
 ```
-Run project using nmp:
+Run project using npm:
 ```bash
 npm install
 npm start

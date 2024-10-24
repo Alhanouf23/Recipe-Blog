@@ -55,6 +55,20 @@ Adding favorites page, so users can view and manage their saved recipes.
 
 Visual Studio Code: Code editor used for development.
 
+# Some Screenshots!
+![Screenshot (58)](https://github.com/user-attachments/assets/064eb375-e9fd-4704-8524-c1b5848ff66a)
+![Screenshot (54)](https://github.com/user-attachments/assets/ec0d9ee9-5e35-4a37-9408-a18f6d4526a4)
+![Screenshot (55)](https://github.com/user-attachments/assets/ee8c1c42-658e-4d11-83f2-fe272076283f)
+![Screenshot (56)](https://github.com/user-attachments/assets/74542cc8-a0a0-48f0-bffa-c2c01eb5b05d)
+![Screenshot (57)](https://github.com/user-attachments/assets/855489f2-b4b5-4cbb-8cad-bad762e095fd)
+
+# Team Members
+
+Remas Almutairi,
+Alhanouf Alaloey,
+Sara Alagha
+
+
 
 
 

@@ -61,6 +61,8 @@ Visual Studio Code: Code editor used for development.
 ![Screenshot (55)](https://github.com/user-attachments/assets/ee8c1c42-658e-4d11-83f2-fe272076283f)
 ![Screenshot (56)](https://github.com/user-attachments/assets/74542cc8-a0a0-48f0-bffa-c2c01eb5b05d)
 ![Screenshot (57)](https://github.com/user-attachments/assets/855489f2-b4b5-4cbb-8cad-bad762e095fd)
+![Screenshot (60)](https://github.com/user-attachments/assets/cdc0950c-81eb-48b7-afff-5cb9c2df8bc1)
+![Screenshot (59)](https://github.com/user-attachments/assets/aa43cfc9-e81d-4e75-a88a-f2a1cbd2a6b1)
 
 # Team Members
 

@@ -49,9 +49,9 @@ Adding favorites page, so users can view and manage their saved recipes.
 
 [MongoDB](https://www.mongodb.com/): Used to store recipe data. 
 
-
-
 [Lucid.app](https://lucid.app/documents#/home?folder_id=recent): Used to create the flow chart.
+
+[YouTube Video](https://www.youtube.com/watch?time_continue=11189&v=OEdPH4fV7vY&embeds_referring_euri=https%3A%2F%2Fraddy.dev%2F&source_ve_path=MjM4NTE): This project was inspired by the following video.
 
 Visual Studio Code: Code editor used for development.
 
@@ -63,6 +63,14 @@ Visual Studio Code: Code editor used for development.
 ![Screenshot (57)](https://github.com/user-attachments/assets/855489f2-b4b5-4cbb-8cad-bad762e095fd)
 ![Screenshot (60)](https://github.com/user-attachments/assets/cdc0950c-81eb-48b7-afff-5cb9c2df8bc1)
 ![Screenshot (59)](https://github.com/user-attachments/assets/aa43cfc9-e81d-4e75-a88a-f2a1cbd2a6b1)
+
+# DEMO video
+
+[Click Here](https://imamuedusa-my.sharepoint.com/personal/441019553_sm_imamu_edu_sa/_layouts/15/stream.aspx?id=%2Fpersonal%2F441019553%5Fsm%5Fimamu%5Fedu%5Fsa%2FDocuments%2FAttachments%2FDEmo%201%2Emov&ct=1729790581068&or=OWA%2DNT%2DMail&cid=1838d355%2D440b%2D6d0d%2D132e%2D19d2b49b4712&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Edd77c9ca%2Dbf33%2D4014%2D9ebf%2Dee86b69c838c)
+
+# Presentation Link
+
+[Click Here](https://heyzine.com/flip-book/a4b2d6e98f.html#page/10)
 
 # Team Members
 
